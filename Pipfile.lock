@@ -911,7 +911,7 @@
                 "sha256:fbd6dee5a8bccabc25f0e473433ff13585b142b8f562ae664c0c5b6978a1ad79"
             ],
             "index": "pypi",
-            "version": "==0.10.20"
+            "version": "==0.10.18"
         },
         "ml-dtypes": {
             "hashes": [
