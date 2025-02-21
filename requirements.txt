@@ -1,8 +1,5 @@
 mediapipe
 opencv-python
 pandas
-scikit-learn==1.6.1
-keras
 Flask
-flask-talisman
 flask-cors

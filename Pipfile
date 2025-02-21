@@ -5,13 +5,10 @@ name = "pypi"
 
 [packages]
 flask = "*"
-mediapipe = "0.10.18"
-opencv-python = "*"
+mediapipe = "==0.10.18"
+opencv-python-headless = "*"
 pandas = "*"
-scikit-learn = "1.6.1"
-keras = "*"
 flask-cors = "*"
-flask-talisman = "*"
 
 [requires]
 python_version = "3.9"
