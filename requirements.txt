@@ -1,10 +1,10 @@
-mediapipe==0.10.18
-opencv-python==4.10.0.84
-pandas==2.2.3
+mediapipe
+opencv-python
+pandas
 scikit-learn==1.6.1
-keras==3.8.0
-tensorflow==2.18.0
-Flask==3.1.0
+keras
+tensorflow
+Flask
 gunicorn
 flask-talisman
-flask-cors==5.0.0
+flask-cors
