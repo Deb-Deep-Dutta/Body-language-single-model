@@ -3,8 +3,6 @@ opencv-python
 pandas
 scikit-learn==1.6.1
 keras
-tensorflow
 Flask
-gunicorn
 flask-talisman
 flask-cors

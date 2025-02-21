@@ -10,9 +10,7 @@ opencv-python = "*"
 pandas = "*"
 scikit-learn = "1.6.1"
 keras = "*"
-tensorflow = "*"
 flask-cors = "*"
-gunicorn = "*"
 flask-talisman = "*"
 
 [requires]
